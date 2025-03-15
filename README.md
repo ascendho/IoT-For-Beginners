@@ -8,9 +8,16 @@
 
 本仓库存储了本人在这门课程学习过程中所使用到的所有资料（包括幻灯片、电子书、课前&课后习题、项目实战等），并采用原版教程中推荐的3种硬件中的`Arudino`为基础进行学习，另外两种分别是树莓派和虚拟硬件，学习者可自行选择。若本项目对您有所帮助，请在页面右上角点个 Star ⭐ 支持一下，谢谢！
 
-**另**：清华大学出版社已和微软合作整理这门教程的所有内容，并翻译成中文书籍[《深入浅出IoT：完整项目通关实战》](http://www.tup.tsinghua.edu.cn/bookscenter/book_09887501.html)出版，可自行购买。
+**另**：清华大学出版社已和微软合作整理这门教程的所有内容，并翻译成中文书籍[《深入浅出IoT：完整项目通关实战》](http://www.tup.tsinghua.edu.cn/bookscenter/book_09887501.html)出版，可按需购买。
 
+## 进度
 
+|        章节         |          小节           |                             视频                             |               作业               | 代码 |
+| :-----------------: | :---------------------: | :----------------------------------------------------------: | :------------------------------: | :--: |
+| `1-getting-started` |  1-introduction-to-iot  | ▶️[正课](https://www.youtube.com/watch?v=bVFfcYh6UBw&list=PLmsFUfdnGr3xRts0TIwyaHyQuHaNQcb6-&index=1&t=169s)    ⏰[答疑](https://www.youtube.com/watch?v=YI772q5v3yI&list=PLmsFUfdnGr3xRts0TIwyaHyQuHaNQcb6-&index=2) | <a href="课程\作业\01.md">✍🏼</a> |      |
+|                     |      2-deeper-dive      |                                                              | <a href="课程\作业\02.md">✍🏼</a> |      |
+|                     | 3-sensors-and-actuators |                                                              |                                  |      |
+|                     |   4-connect-internet    |                                                              |                                  |      |
 
 
 
