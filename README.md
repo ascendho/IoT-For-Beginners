@@ -16,7 +16,7 @@
 | :-----------------: | :---------------------: | :----------------------------------------------------------: | :----------------------------------: | :--: |
 | *1-getting-started* |  1-introduction-to-iot  | ▶️[正课](https://www.youtube.com/watch?v=bVFfcYh6UBw&list=PLmsFUfdnGr3xRts0TIwyaHyQuHaNQcb6-&index=1&t=169s)    ⏰[答疑](https://www.youtube.com/watch?v=YI772q5v3yI&list=PLmsFUfdnGr3xRts0TIwyaHyQuHaNQcb6-&index=2) | <a href="课程内容\作业\01.md">✍🏼</a> |      |
 |                     |      2-deeper-dive      | ▶️[正课](https://www.youtube.com/watch?v=t0SySWw3z9M&list=PLmsFUfdnGr3xRts0TIwyaHyQuHaNQcb6-&index=4)    ⏰[答疑](https://www.youtube.com/watch?v=tTZYf9EST1E&list=PLmsFUfdnGr3xRts0TIwyaHyQuHaNQcb6-&index=4) | <a href="课程内容\作业\02.md">✍🏼</a> |      |
-|                     | 3-sensors-and-actuators |                                                              |                                      |      |
+|                     | 3-sensors-and-actuators | ▶️[正课](https://www.youtube.com/watch?v=Lqalu1v6aF4&list=PLmsFUfdnGr3xRts0TIwyaHyQuHaNQcb6-&index=6)    ⏰[答疑](https://www.youtube.com/watch?v=qR3ekcMlLWA&list=PLmsFUfdnGr3xRts0TIwyaHyQuHaNQcb6-&index=6) | <a href="课程内容\作业\03.md">✍🏼</a> |      |
 |                     |   4-connect-internet    |                                                              |                                      |      |
 
 
